@@ -1,6 +1,6 @@
 {
-  "name": "wp-graphql/wp-graphql",
-  "description": "GraphQL API for WordPress",
+  "name": "brianwk/wp-graphql",
+  "description": "GraphQL API for WordPress forked to update deps to 0.13.8",
   "type": "wordpress-plugin",
   "license": "GPL-3.0-or-later",
   "authors": [
